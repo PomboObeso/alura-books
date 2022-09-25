@@ -30,8 +30,16 @@
 }
 
 @media screen and (min-width: 1024px) {
+    .tópicos__lista{
+        margin: 1em 10vw 1.2em 10vw;
+    }
     .tópicos__titulo {
+        margin-top: 1em;
         font-size: 24px;
+    }
+
+    .tópicos__item{
+        margin: 3em 1em;
     }
 
     .tópicos__link {
