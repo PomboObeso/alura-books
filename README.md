@@ -1,7 +1,7 @@
 
-<hr>
+![Logo Alura Books](https://github.com/MonicaHillman/alurabooks/blob/aula05/img/Logo.svg)
 
-<p> <img src="https://github.com/MonicaHillman/alurabooks/blob/aula05/img/Logo.svg" alt="Logo da alura plus"> Alura Books 📗</p>
+# Alura Books 📖
 <p>Um site do e-commerce AluraBooks, uma livraria online de livros sobre tecnologia.</p>
 
 ## Tecnologias 💻
