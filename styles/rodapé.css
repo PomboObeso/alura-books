@@ -41,6 +41,9 @@ hr {
     .rodapé__titulo {
         font-size: 24px;
     }
+    .lista-rodapé__link:hover {
+        color: var(--laranja);
+    }
 }
 
 @media screen and (min-width: 1728px) {
@@ -51,5 +54,8 @@ hr {
 
     .rodapé {
         padding: 3em 0;
+    }
+    .lista-rodapé__link:hover {
+        color: var(--laranja);
     }
 }
